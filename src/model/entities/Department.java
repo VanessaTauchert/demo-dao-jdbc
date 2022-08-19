@@ -51,7 +51,7 @@ public class Department implements Serializable {
 
     @Override
     public String toString() {
-        return "Department: " +
+        return "model.Department: " +
                 "Id: " + id +
                 ", Name: " + name;
     }
